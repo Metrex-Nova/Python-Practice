@@ -1,0 +1,8 @@
+def getData():
+    return 1
+
+def process(data):
+    print(data)
+
+if (data := getData()):
+    process(data)

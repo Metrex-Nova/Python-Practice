@@ -1,0 +1,5 @@
+print(a := 25)
+
+//Assigns 25 to variable a
+//Returns the value 25
+//print() displays 25
